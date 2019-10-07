@@ -12,7 +12,13 @@ int main() {
     return 0;
 }
 
+/**Create a class called Pair that has
+two public integer member variables named "a" and "b",
+and a public member function named sum()
+that has no arguments
+but adds the two member variables together and returns their sum.
 
+**/
 // You should define Pair here:
 // (Use as many lines as you need!)
 // ...
