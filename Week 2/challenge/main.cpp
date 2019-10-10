@@ -28,3 +28,12 @@
 // Also note, the autograder does not care about letter case, punctuation,
 // or spacing! But it does care about spelling and the order of words!
 
+#include <iostream>
+
+int main() {
+
+    std::cout << "Hello, world" << std::endl;
+    std::cout << "Greetings from Illinois!" << std::endl;
+
+  return 0;
+}
