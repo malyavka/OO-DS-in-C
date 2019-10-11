@@ -16,9 +16,11 @@ public:
 // function type to return a pointer to a Pair.
 
 
-
+// so the function MUST return a pointer to an instance of the object => Pair * func () {}
 Pair * pairFactory() {
+//then I create an instance on the heap with the new operator
   Pair *c1 = new Pair;
+  //then create a pointer to the instance on the heap
   Pair *c2 = c1;
   // (You can use as many lines as you want.)
   return c2;
