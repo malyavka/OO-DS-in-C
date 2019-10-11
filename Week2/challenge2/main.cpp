@@ -15,11 +15,13 @@ public:
 // below, by replacing "..." with proper C++ code. Be sure to declare the
 // function type to return a pointer to a Pair.
 
- int pairFactory() {
-  Pair *i = new Pair;
-  // (You can use as many lines as you want.)
 
-  return 0;
+
+Pair * pairFactory() {
+  Pair *c1 = new Pair;
+  Pair *c2 = c1;
+  // (You can use as many lines as you want.)
+  return c2;
 }
 
 // Your function should be able to satisfy the tests below. You should try
