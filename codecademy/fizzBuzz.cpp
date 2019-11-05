@@ -18,3 +18,6 @@ int main() {
     }
   }
 }
+
+//compile: g++ <file>
+//execute  ./a.out
