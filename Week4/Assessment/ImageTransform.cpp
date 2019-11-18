@@ -11,8 +11,8 @@
 
 Write your name and email address in the comment space here:
 
-Name:
-Email:
+Name: Maria Obaturova
+Email: m.obaturova@gmail.com
 
 (...end multi-line comment.)
 ******************** */
